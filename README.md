@@ -19,8 +19,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Xcode" width="26px" src="https://img.icons8.com/nolan/2x/xcode.png" />
-<img align="left" alt="IOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
+<img align="left" alt="Xcode" width="26px" src="https://img.icons8.com/color/48/000000/xcode.png" />
+<img align="left" alt="IOS" width="26px" src="https://img.icons8.com/ios-filled/50/000000/ios-logo.png" />
 <img align="left" alt="Swift" width="26px" src="https://img.icons8.com/nolan/2x/ios-logo.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -28,14 +28,14 @@
 
 <br />
 <br />
-
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agarkov-v&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</ details>
+</details>
 
 <br />
 
