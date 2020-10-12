@@ -38,8 +38,6 @@
 
 </details>
 
-<br />
-
 
 [linkedin]: https://www.linkedin.com/in/vyacheslav-agarkov-612246180
 [twitter]: https://twitter.com/v_agarkov
