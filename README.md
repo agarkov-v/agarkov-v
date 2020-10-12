@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 📱 I'm interested in mobile development
-- :handshaking: I’m looking to collaborate with other content creators
+- 🤝 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn more skills
 - 😍 Fun fact: I love to riding on my bike, running, listening the music and IT
 
