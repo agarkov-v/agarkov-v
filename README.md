@@ -20,12 +20,12 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Xcode" width="30px" src="https://img.icons8.com/color/48/000000/xcode.png" />
-<img align="left" alt="IOS" width="30px" src="https://img.icons8.com/ios/50/4a90e2/ios-logo.png" />
-<img align="left" alt="Swift" width="30px" src="https://img.icons8.com/color/48/000000/swift.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Xcode" width="30px" src="https://img.icons8.com/ios-filled/50/4a90e2/xcode.png" />
+<img align="left" alt="IOS" width="30px" src="https://img.icons8.com/ios-filled/50/4a90e2/ios-logo.png" />
+<img align="left" alt="Swift" width="30px" src="https://img.icons8.com/ios-filled/50/4a90e2/swift.png" />
+<img align="left" alt="Git" width="30px" src="https://img.icons8.com/ios-filled/50/4a90e2/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/ios-filled/50/4a90e2/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="30px" src="https://img.icons8.com/ios-filled/50/4a90e2/powershell.png" />
 
 <br />
 <br />
