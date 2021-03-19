@@ -40,7 +40,7 @@
 
 ### My projects:
 - [**IosJobs**](https://github.com/agarkov-v/IosJobs)
-- [**IosGalleryVersion1**]()
+- [**IosGalleryVersion1**](https://github.com/agarkov-v/IosGalleryVersion1)
 - [**HTML-coding**](https://github.com/agarkov-v/HTML-coding)
 
 *You can learn more about each project in its README.*
