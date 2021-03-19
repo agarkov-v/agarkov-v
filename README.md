@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="agarkov-v | LinkedIn" width="30px" src="https://img.icons8.com/color/48/4a90e2/linkedin.png" />][linkedin]
+[<img align="left" alt="agarkov-v | LinkedIn" width="30px" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" />][linkedin]
 [<img align="left" alt="agarkov-v | Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/4a90e2/twitter-squared.png" />][twitter]
 [<img align="left" alt="agarkov-v | Instagram" width="30px" src="https://img.icons8.com/ios-filled/50/4a90e2/instagram-new.png" />][instagram]
 [<img align="left" alt="agarkov-v | Telegram" width="30px" src="https://img.icons8.com/ios-filled/50/4a90e2/telegram-app.png" />][telegram]
@@ -21,7 +21,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Xcode" width="30px" src="https://img.icons8.com/color/48/000000/xcode.png" />
-<img align="left" alt="IOS" width="30px" src="<img src="https://img.icons8.com/ios/50/4a90e2/ios-logo.png" />
+<img align="left" alt="IOS" width="30px" src="https://img.icons8.com/ios/50/4a90e2/ios-logo.png" />
 <img align="left" alt="Swift" width="30px" src="https://img.icons8.com/color/48/000000/swift.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/ios-filled/50/4a90e2/github.png" />
