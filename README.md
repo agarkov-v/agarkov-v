@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 📱 I'm interested in mobile development
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn more skills
-- 😍 Fun fact: I love to riding on my bike, running, listening the music and IT
 
 ### Connect with me:
 
@@ -39,6 +37,7 @@
 </details>
 
 ### My projects:
+- [**DictionarySwiftUI**](https://github.com/agarkov-v/DictionarySwiftUI)
 - [**IosJobs**](https://github.com/agarkov-v/IosJobs)
 - [**IosGalleryVersion1**](https://github.com/agarkov-v/IosGalleryVersion1)
 - [**HTML-coding**](https://github.com/agarkov-v/HTML-coding)
